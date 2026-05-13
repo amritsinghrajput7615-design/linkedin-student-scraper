@@ -1,1 +1,1 @@
-# linkedin-student-scraper
+# linkedin-studen
